@@ -1,3 +1,6 @@
 *.db
 __pycache__/
 _avast_/
+.venv/
+pipeline.log
+
