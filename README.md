@@ -1,5 +1,9 @@
 # Ottawa Weather ETL
 
+![Run output](run.png)
+
+![Cron schedule](cron.png)
+
 A small Python ETL pipeline. It pulls hourly temperature data for Ottawa from the Open-Meteo API, stores it in a SQLite database, and can run once a day with cron on Linux.
 
 ## How it works
